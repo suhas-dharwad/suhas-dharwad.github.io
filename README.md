@@ -51,16 +51,28 @@
   <hr>
 
   <h2>Contact</h2>
-  <nav aria-label="Contact Links">
-    <ul style="list-style-type: none !important; padding: 0; margin: 0;">
-      <!-- Email Button -->
-      <li style="display: inline-block; list-style-type: none !important; margin-right: 1rem;">
-        <a href="mailto:suhas.dharwad@outlook.com" style="display: inline-block; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">Email</a>
-      </li>
-      <!-- LinkedIn Button -->
-      <li style="display: inline-block; list-style-type: none !important;">
-        <a href="https://linkedin.com/in/suhasdharwad" style="display: inline-block; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">LinkedIn</a>
-      </li>
-    </ul>
-  </nav>
+  <h2>Contact</h2>
+<nav aria-label="Contact Links">
+  <ul style="list-style-type: none !important; padding: 0; margin: 0;">
+    
+    <!-- Email Button -->
+    <li style="display: inline-block; list-style-type: none !important; margin-right: 1rem;">
+      <a href="mailto:suhas.dharwad@outlook.com" style="display: inline-flex; align-items: center; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">
+        <!-- White Email Icon -->
+        <img src="https://cdn.simpleicons.org/mail/ffffff" alt="" style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle;">
+        Email
+      </a>
+    </li>
+    
+    <!-- LinkedIn Button -->
+    <li style="display: inline-block; list-style-type: none !important;">
+      <a href="https://linkedin.com/in/suhasdharwad" style="display: inline-flex; align-items: center; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">
+        <!-- White LinkedIn Icon -->
+        <img src="https://cdn.simpleicons.org/simple-icons/v14/linkedin.svg" alt="" style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle; filter: brightness(0) invert(1);">
+        LinkedIn
+      </a>
+    </li>
+
+  </ul>
+</nav>
 </main>
