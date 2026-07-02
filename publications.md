@@ -9,7 +9,7 @@ title: Publications
     <li style="display: inline-block; list-style-type: none !important; width: 120px; text-align: center;">
       <a href="background.md" style="font-weight: bold; color: #0066cc; text-decoration: none;">Background</a>
     </li>
-    <li style="display: inline-block; list-style-type: none !important; width: 140px; text-align: center;">
+     <li style="display: inline-block; list-style-type: none !important; width: 140px; text-align: center;">
       <a href="publications.md" style="font-weight: bold; color: #0066cc; text-decoration: none;">Publications</a>
     </li>
   </ul>
