@@ -1,21 +1,24 @@
 ---
 layout: default
-title:  Home
+title: Home
+---
+
 <nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
-    <ul style="list-style-type: none !important; padding: 0; margin: 0;">
+  <ul style="list-style-type: none !important; padding: 0; margin: 0;">
     <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
       <a href="index.html" style="font-weight: bold; color: #0066cc; text-decoration: none;">Home</a>
+    </li>
     <li style="display: inline-block; list-style-type: none !important; width: 120px; text-align: center;">
-      <a href="background.md" style="font-weight: bold; color: #0066cc; text-decoration: none;">Background</a>
+      <a href="background.html" style="font-weight: bold; color: #0066cc; text-decoration: none;">Background</a>
     </li>
     <li style="display: inline-block; list-style-type: none !important; width: 140px; text-align: center;">
-      <a href="publications.md" style="font-weight: bold; color: #0066cc; text-decoration: none;">Publications</a>
+      <a href="publications.html" style="font-weight: bold; color: #0066cc; text-decoration: none;">Publications</a>
     </li>
   </ul>
 </nav>
 
 <main>
-  <h2>About  Me</h2>
+  <h2>About Me</h2>
   <img src="profile.png" alt="Headshot of Suhas Dharwad. He has short black hair, medium-brown skin, and a neatly trimmed mustache. He is wearing rectangular dark-framed glasses and a casual red-and-blue plaid button-up shirt with the collar open. Suhas is smiling warmly against a plain light-colored background." width="200">
 
   <p>I am an <b>Inclusive Researcher</b>. The strength in my research comes from my blindness, and through this I believe I can better empathize with people to make a meaningful change in the realm of accessible product design.
@@ -50,29 +53,30 @@ title:  Home
     </tr>
   </table>
 
-  
+  <hr>
+
   <h2>Contact</h2>
   <nav aria-label="Contact Links">
-  <ul style="list-style-type: none !important; padding: 0; margin: 0;">
-    
-    <!-- Email Button -->
-    <li style="display: inline-block; list-style-type: none !important; margin-right: 1rem;">
-      <a href="mailto:suhas.dharwad@outlook.com" style="display: inline-flex; align-items: center; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">
-        <!-- White Email Icon -->
-        <img src="https://cdn.simpleicons.org/mail/ffffff" alt="" style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle;">
-        Email
-      </a>
-    </li>
-    
-    <!-- LinkedIn Button -->
-    <li style="display: inline-block; list-style-type: none !important;">
-      <a href="https://linkedin.com/in/suhasdharwad" style="display: inline-flex; align-items: center; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">
-        <!-- White LinkedIn Icon -->
-        <img src="https://cdn.simpleicons.org/simple-icons/v14/linkedin.svg" alt="" style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle; filter: brightness(0) invert(1);">
-        Linkedin
-      </a>
-    </li>
+    <ul style="list-style-type: none !important; padding: 0; margin: 0;">
+      
+      <!-- Email Button -->
+      <li style="display: inline-block; list-style-type: none !important; margin-right: 1rem;">
+        <a href="mailto:suhas.dharwad@outlook.com" style="display: inline-flex; align-items: center; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">
+          <!-- White Email Icon -->
+          <img src="https://cdn.simpleicons.org/mail/ffffff" alt="" style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle;">
+          Email
+        </a>
+      </li>
+      
+      <!-- LinkedIn Button -->
+      <li style="display: inline-block; list-style-type: none !important;">
+        <a href="https://linkedin.com/in/suhasdharwad" style="display: inline-flex; align-items: center; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">
+          <!-- White LinkedIn Icon -->
+          <img src="https://cdn.simpleicons.org/simple-icons/v14/linkedin.svg" alt="" style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle; filter: brightness(0) invert(1);">
+          Linkedin
+        </a>
+      </li>
 
-  </ul>
-</nav>
+    </ul>
+  </nav>
 </main>
