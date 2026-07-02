@@ -1,4 +1,4 @@
-# About Me
+# About me
 
 I am an HCI researcher specializing in human-robot interaction, inclusive design, and technical accessibility software. My work focuses on building seamless, accessible user experiences and investigating how automation can better serve diverse user needs.
 
