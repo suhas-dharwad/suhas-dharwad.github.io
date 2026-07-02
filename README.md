@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  - Home
+title:  Home
 <nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
   <ul style="list-style-type: none !important; padding: 0; margin: 0;">
-    <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
+     <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
       <a href="" style="font-weight: bold; color: #0066cc; text-decoration: none;"README.md">Home</a>
     </li>
     <li style="display: inline-block; list-style-type: none !important; width: 120px; text-align: center;">
