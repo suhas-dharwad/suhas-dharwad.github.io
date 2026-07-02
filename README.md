@@ -1,3 +1,5 @@
+title: "Suhas Dharwad’s Portfolio"
+---
 ## About Me
 <img src="profile.png" alt="Headshot of Suhas Dharwad. He has short black hair, medium-brown skin, and a neatly trimmed mustache. He is wearing rectangular dark-framed glasses and a casual red-and-blue plaid button-up shirt with the collar open. Suhas is smiling warmly against a plain light-colored background." width="200">
 
