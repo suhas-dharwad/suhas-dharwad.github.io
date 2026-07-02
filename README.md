@@ -1,8 +1,15 @@
-
 <nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
-  <a href="index.html" style="display: inline-block; width: 100px; text-align: center; font-weight: bold; color: #0066cc; text-decoration: none;">Home</a>
-  <a href="background.html" style="display: inline-block; width: 120px; text-align: center; font-weight: bold; color: #0066cc; text-decoration: none;">Background</a>
-  <a href="publications.html" style="display: inline-block; width: 140px; text-align: center; font-weight: bold; color: #0066cc; text-decoration: none;">Publications</a>
+  <ul style="list-style-type: none !important; padding: 0; margin: 0;">
+    <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
+      <a href="index.html" style="font-weight: bold; color: #0066cc; text-decoration: none;">Home</a>
+    </li>
+    <li style="display: inline-block; list-style-type: none !important; width: 120px; text-align: center;">
+      <a href="background.html" style="font-weight: bold; color: #0066cc; text-decoration: none;">Background</a>
+    </li>
+    <li style="display: inline-block; list-style-type: none !important; width: 140px; text-align: center;">
+      <a href="publications.html" style="font-weight: bold; color: #0066cc; text-decoration: none;">Publications</a>
+    </li>
+  </ul>
 </nav>
 ## About Me
 <img src="profile.png" alt="Headshot of Suhas Dharwad. He has short black hair, medium-brown skin, and a neatly trimmed mustache. He is wearing rectangular dark-framed glasses and a casual red-and-blue plaid button-up shirt with the collar open. Suhas is smiling warmly against a plain light-colored background." width="200">
