@@ -2,10 +2,9 @@
 layout: default
 title:  Home
 <nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
-  <ul style="list-style-type: none !important; padding: 0; margin: 0;">
-<li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
-      <a href="" style="font-weight: bold; color: #0066cc; text-decoration: none;"README.md">Home</a>
-    </li>
+    <ul style="list-style-type: none !important; padding: 0; margin: 0;">
+    <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
+      <a href="index.html" style="font-weight: bold; color: #0066cc; text-decoration: none;">Home</a>
     <li style="display: inline-block; list-style-type: none !important; width: 120px; text-align: center;">
       <a href="background.md" style="font-weight: bold; color: #0066cc; text-decoration: none;">Background</a>
     </li>
