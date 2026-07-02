@@ -70,7 +70,7 @@ title:  Home
       <a href="https://linkedin.com/in/suhasdharwad" style="display: inline-flex; align-items: center; background-color: #0066cc; color: #ffffff; padding: 0.5rem 1.2rem; font-weight: bold; text-decoration: none; border-radius: 4px;">
         <!-- White LinkedIn Icon -->
         <img src="https://cdn.simpleicons.org/simple-icons/v14/linkedin.svg" alt="" style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle; filter: brightness(0) invert(1);">
-        LinkedIn
+        Linkedin
       </a>
     </li>
 
