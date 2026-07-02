@@ -1,19 +1,66 @@
 ---
 layout: default
-title: "My Portfolio Home"
+title: My Portfolio
 ---
 
-<nav aria-label="Main Navigation">
-  <a href="index.html">Home</a> | 
-  <a href="about.html">About Me</a>
-</nav>
+<!-- 1. Screen Reader Skip Link (Invisible visually, but the first stop for Tab navigation) -->
+<a href="#main-content" class="skip-link" style="position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;">Skip to main content</a>
 
-<main>
-  <h1>Welcome to My Portfolio</h1>
-  <p>Hello! I am a creator building an accessible visual portfolio completely from text using HTML and GitHub Pages.</p>
+<header>
+  <h1>Suhas Dharwad</h1>
+  <p>Human-Computer Interaction Researcher & Master's Student</p>
   
-  <section>
-    <h2>Featured Work</h2>
-    <p>My image gallery will appear right here soon.</p>
+  <!-- 2. Main Navigation Landmark -->
+  <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<hr aria-hidden="true">
+
+<!-- 3. Main Content Landmark -->
+<main id="main-content">
+
+  <!-- About Section -->
+  <section id="about" aria-labelledby="about-heading">
+    <h2 id="about-heading">About Me</h2>
+    <p>
+      I am an HCI researcher specializing in human-robot interaction, inclusive design, and technical accessibility software. My work focuses on building seamless, accessible user experiences and investigating how automation can better serve diverse user needs.
+    </p>
   </section>
+
+  <!-- Projects Section -->
+  <section id="projects" aria-labelledby="projects-heading">
+    <h2 id="projects-heading">Selected Projects</h2>
+    
+    <h3>Robotic Handover & User Needs Study</h3>
+    <p>
+      Conducted a detailed self-ethnography study followed by qualitative interviews with 13 participants to analyze user preferences, physical coordination, and spatial feedback methods during physical robotic interactions.
+    </p>
+
+    <h3>Audio Guidance Systems for Robotics</h3>
+    <p>
+      Explored multi-modal feedback loops to assist users in operating robotic hardware, ensuring high compliance with digital and physical accessibility standards.
+    </p>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" aria-labelledby="contact-heading">
+    <h2 id="contact-heading">Contact & Connections</h2>
+    <p>Feel free to reach out or connect with me via the platforms below:</p>
+    <ul>
+      <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+      <li>LinkedIn: <a href="https://linkedin.com">Your LinkedIn Profile</a></li>
+      <li>GitHub: <a href="https://github.com/suhas-dharwad">github.com/suhas-dharwad</a></li>
+    </ul>
+  </section>
+
 </main>
+
+<footer>
+  <p>&copy; 2026 Suhas Dharwad. Built with GitHub Pages.</p>
+</footer>
