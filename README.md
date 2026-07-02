@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications - Suhas Dharwad
+title:  - Home
 <nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
   <ul style="list-style-type: none !important; padding: 0; margin: 0;">
     <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
@@ -53,8 +53,7 @@ title: Publications - Suhas Dharwad
 
   
   <h2>Contact</h2>
-  <h2>Contact</h2>
-<nav aria-label="Contact Links">
+  <nav aria-label="Contact Links">
   <ul style="list-style-type: none !important; padding: 0; margin: 0;">
     
     <!-- Email Button -->
