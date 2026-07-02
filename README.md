@@ -1,5 +1,5 @@
 
-<nav aria-label="Main Navigation" style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
+<nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
   <a href="index.html" style="display: inline-block; width: 100px; text-align: center; font-weight: bold; color: #0066cc; text-decoration: none;">Home</a>
   <a href="background.html" style="display: inline-block; width: 120px; text-align: center; font-weight: bold; color: #0066cc; text-decoration: none;">Background</a>
   <a href="publications.html" style="display: inline-block; width: 140px; text-align: center; font-weight: bold; color: #0066cc; text-decoration: none;">Publications</a>
