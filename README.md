@@ -1,3 +1,6 @@
+---
+layout: default
+title: Publications - Suhas Dharwad
 <nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
   <ul style="list-style-type: none !important; padding: 0; margin: 0;">
     <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
