@@ -3,7 +3,7 @@ layout: default
 title:  Home
 <nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
   <ul style="list-style-type: none !important; padding: 0; margin: 0;">
-     <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
+<li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
       <a href="" style="font-weight: bold; color: #0066cc; text-decoration: none;"README.md">Home</a>
     </li>
     <li style="display: inline-block; list-style-type: none !important; width: 120px; text-align: center;">
@@ -16,7 +16,7 @@ title:  Home
 </nav>
 
 <main>
-  <h2>About Me</h2>
+  <h2>About  Me</h2>
   <img src="profile.png" alt="Headshot of Suhas Dharwad. He has short black hair, medium-brown skin, and a neatly trimmed mustache. He is wearing rectangular dark-framed glasses and a casual red-and-blue plaid button-up shirt with the collar open. Suhas is smiling warmly against a plain light-colored background." width="200">
 
   <p>I am an <b>Inclusive Researcher</b>. The strength in my research comes from my blindness, and through this I believe I can better empathize with people to make a meaningful change in the realm of accessible product design.
