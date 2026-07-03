@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+---
 <nav style="margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.8rem;">
   <ul style="list-style-type: none !important; padding: 0; margin: 0;">
     <li style="display: inline-block; list-style-type: none !important; width: 100px; text-align: center;">
@@ -15,6 +15,7 @@ title: Publications
   </ul>
 </nav>
 <main>
+  <h2>Publications</h2>
 <p>This page showcases the publications I have been featured inn.</p>
 <!-- Semantic layout table for side-by-side project presentation -->
   <table role="presentation" style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 2rem;">
@@ -27,7 +28,6 @@ title: Publications
   </table>
 
   
-  <h2>Contact</h2>
   <h2>Contact</h2>
 <nav aria-label="Contact Links">
   <ul style="list-style-type: none !important; padding: 0; margin: 0;">
